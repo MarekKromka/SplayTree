@@ -1,0 +1,8 @@
+C:\Users\Marek\source\repos\SemestralnaPracaLetiskoAaUS2\SplayTree\bin\Debug\netstandard2.0\SplayTree.deps.json
+C:\Users\Marek\source\repos\SemestralnaPracaLetiskoAaUS2\SplayTree\bin\Debug\netstandard2.0\SplayTree.dll
+C:\Users\Marek\source\repos\SemestralnaPracaLetiskoAaUS2\SplayTree\bin\Debug\netstandard2.0\SplayTree.pdb
+C:\Users\Marek\source\repos\SemestralnaPracaLetiskoAaUS2\SplayTree\obj\Debug\netstandard2.0\SplayTree.AssemblyInfoInputs.cache
+C:\Users\Marek\source\repos\SemestralnaPracaLetiskoAaUS2\SplayTree\obj\Debug\netstandard2.0\SplayTree.AssemblyInfo.cs
+C:\Users\Marek\source\repos\SemestralnaPracaLetiskoAaUS2\SplayTree\obj\Debug\netstandard2.0\SplayTree.dll
+C:\Users\Marek\source\repos\SemestralnaPracaLetiskoAaUS2\SplayTree\obj\Debug\netstandard2.0\SplayTree.pdb
+C:\Users\Marek\source\repos\SemestralnaPracaLetiskoAaUS2\SplayTree\obj\Debug\netstandard2.0\SplayTree.csprojAssemblyReference.cache
